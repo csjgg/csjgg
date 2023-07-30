@@ -4,7 +4,7 @@
 - 🤔 I’m (partly) good at the following skills
 - 📫 You can reach me: 1589676056@qq.com / cuishunj@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,linux,vim)](https://skillicons.dev)
 
 <!--
 **csjgg/csjgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
