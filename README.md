@@ -3,13 +3,14 @@
 - 🌱 I’m currently learning in the HUST
 - 📫 You can reach me: 1589676056@qq.com / cuishunj@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csjgg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjgg&layout=compact">
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,vim&perline=2" />
   </a>
 </p>
-# [![My Skills]()](https://skillicons.dev)
 
 <!--
 **csjgg/csjgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
