@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi👋
+assets/Bottom_up.svg
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,flutter&perline=2)](https://skillicons.dev)
 
 <!--
 **csjgg/csjgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
