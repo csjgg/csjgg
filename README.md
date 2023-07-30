@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in the HUST
 - 📫 You can reach me: 1589676056@qq.com / cuishunj@gmail.com
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjgg&layout=compact">
   </a>
