@@ -1,9 +1,9 @@
 ![hello](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg "hello")
 
 - 🌱 I’m currently learning in the HUST
-- 🤔 I’m (partly) good at the following skills
 - 📫 You can reach me: 1589676056@qq.com / cuishunj@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csjgg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,linux,vim)](https://skillicons.dev)
 
 <!--
