@@ -4,7 +4,12 @@
 - 📫 You can reach me: 1589676056@qq.com / cuishunj@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csjgg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,linux,vim&perline=2)](https://skillicons.dev)
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,vim&perline=2" />
+  </a>
+</p>
+# [![My Skills]()](https://skillicons.dev)
 
 <!--
 **csjgg/csjgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
