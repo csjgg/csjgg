@@ -1,7 +1,7 @@
 ![hello](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg "hello")
 
 - 🌱 I’m currently learning in the HUST
-- 📫 You can reach me: 1589676056@qq.com / cuishunj@gmail.com
+- 📫 You can reach me: csj@jaycui.one
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
